@@ -51,7 +51,7 @@
       {
         text: "Is Active",
         sortable: true,
-        value: "isActive",
+        value: "is_active",
         align: "left",
       },
       {
