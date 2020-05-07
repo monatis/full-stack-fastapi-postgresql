@@ -57,7 +57,7 @@
       {
         text: "Is Superuser",
         sortable: true,
-        value: "isSuperuser",
+        value: "is_superuser",
         align: "left",
       },
       {
