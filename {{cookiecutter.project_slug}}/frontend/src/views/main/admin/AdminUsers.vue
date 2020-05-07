@@ -62,7 +62,7 @@
       },
       {
         text: "Actions",
-        value: "id",
+        value: "actions",
       },
     ];
 
