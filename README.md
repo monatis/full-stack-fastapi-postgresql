@@ -1,4 +1,6 @@
 # Full Stack FastAPI and PostgreSQL - Base Project Generator
+* *Note*: Temporary fork until [this PR](https://github.com/tiangolo/full-stack-fastapi-postgresql/pull/165) is merged to the original repo to migrate to `Vuetify 2.x` at frontend.
+
 
 [![Build Status](https://travis-ci.com/tiangolo/full-stack-fastapi-postgresql.svg?branch=master)](https://travis-ci.com/tiangolo/full-stack-fastapi-postgresql)
 
